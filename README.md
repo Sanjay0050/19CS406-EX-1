@@ -16,8 +16,8 @@ Stop the program
 ## PROGRAM :
 ## CLIENT:
 ```
-Developed by : Amrutha varshni
-Register Number : 212222040007
+Developed by : Sanjay.P
+Register Number : 212221220047
 import socket
 from datetime import datetime
 s=socket.socket()
@@ -34,8 +34,8 @@ if ack:
  ```
 ## SERVER:
 ```
-Developed by :  Amrutha varshni
-Register Number : 212222040007
+Developed by :  Sanjay.P
+Register Number : 212221220047
 import socket
 s=socket.socket()
 s.connect(('localhost',8000))
